@@ -22,6 +22,7 @@ public class PokeBall extends Trainer {
                     System.out.println(card + " found! Adding to hand.");
                     player.getHand().add(card);
                     player.getDeck().remove(card);
+                    Collections.shuffle(player.getDeck());
                     break;
                 }
             }
