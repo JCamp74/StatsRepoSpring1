@@ -7,5 +7,5 @@ Contains:
 - Stats Library and Set Operations
 - Formula Worksheet
 - Excel Graph for Geometric and Binomial Problems
-- Game Manual/Documentation for Pokemon TCG
+- Game Manual/Documentation for Pokemon TCG (Extra Credit Consideration alongide thorough documentation within TCG program itself)
 
