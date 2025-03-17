@@ -25,7 +25,8 @@ public class PokeBall extends Trainer {
                     break;
                 }
             }
-        }
+        } else {
+            System.out.println("Flip failed! Unable to add a card!");
     }
 
     /**
